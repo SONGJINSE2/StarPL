@@ -8,9 +8,6 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 // 컴포넌트
 import Planet1 from "../../../../assets/img/Planet/planet1.png";
-import Planet2 from "../../../../assets/img/Planet/planet2.png";
-import Planet3 from "../../../../assets/img/Planet/planet3.png";
-import Planet4 from "../../../../assets/img/Planet/planet4.png";
 
 import NewPlanetBtn from "../NewPlanetBtn/NewPlanetBtn";
 // 라우팅
